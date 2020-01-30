@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Levanov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "lint-staged": "^10.0.6",
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1"
+  }
+}
